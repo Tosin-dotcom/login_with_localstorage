@@ -43,7 +43,7 @@ def win(board):
 
 printBoard(theBoard)
 
-player = input("Choose player 'X' or 'O': ").upper()
+player = input("Choose player between 'X' or 'O': ").upper()
 
 
 if player == 'X':
